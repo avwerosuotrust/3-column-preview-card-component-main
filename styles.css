@@ -83,7 +83,8 @@ h2{
 
 .Learn3{
     background-color: whitesmoke;
-    color: hsl(179, 100%, 13%);    
+    color: hsl(179, 100%, 13%);  
+    margin-top: 40px;
 }
 
 .second-container{
